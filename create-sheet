@@ -1,1 +1,0 @@
-convert *.bmp -append spritesheet.bmp

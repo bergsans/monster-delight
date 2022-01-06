@@ -1,0 +1,2 @@
+rm graphics.png && \
+convert *.png -append graphics.png
